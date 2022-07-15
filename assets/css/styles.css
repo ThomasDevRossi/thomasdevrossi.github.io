@@ -1,0 +1,182 @@
+html, body {
+    background-color: lightgrey;
+    -webkit-transition: background-color 2s ease-out;
+    -moz-transition: background-color 2s ease-out;
+    -o-transition: background-color 2s ease-out;
+    transition: background-color 2s ease-out;
+  }
+  
+  body {
+    font-family: 'Comfortaa';
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  footer {
+    padding: 20px;
+    padding-bottom: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .content {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .profile-image {
+    margin-right: 30px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  
+  .profile-padding {
+    padding-top: 110px;
+  }
+  
+  .profile-padding-content {
+   padding-top: 50px;
+  }
+  
+  .aboutme-content {
+    padding-bottom: 5px;
+  }
+  
+  .start-100px {
+    left: 100px;
+  }
+  
+  .start-120px {
+    left: 120px;
+  }
+  
+  .background-title {
+    text-align: center;
+    padding-top: 20px;
+    color: rgb(101, 101, 101);
+    text-shadow: 0px 1px 0px rgba(255, 255, 255, .5);
+  }
+  
+  /* carousel related */
+  .work-image {
+    margin-right: 30px;
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+  }
+  
+  .work-padding {
+    padding-top: 50px;
+  }
+  
+  .work-padding-content {
+    padding-top: 60px;
+    padding-left: 25px;
+    padding-right: 50px;
+    padding-bottom: 25px;
+  }
+  
+  .extra-padding-content {
+    padding: 25px;
+  }
+  
+  .extra-padding-bottom {
+    padding-bottom: 110px;
+  }
+  
+  .carousel {
+    padding-bottom: 50px;
+  }
+  
+  .carousel-inner {
+    -webkit-transition: height 2s ease-out;
+    -moz-transition: height 2s ease-out;
+    -o-transition: height 2s ease-out;
+    transition: height 2s ease-out;
+  }
+  
+  .carousel-item {
+    padding-bottom: 10px;
+  }
+  
+  /* footer icons */
+  .social a {
+    background: rgba(169, 169, 169, 0.452);
+    width: 36px;
+    height: 36px;
+    display: inline-block;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    color: white;
+    text-align: center;
+    padding-top: 8px;
+    -webkit-transition: background-color 1s ease-out;
+    -moz-transition: background-color 1s ease-out;
+    -o-transition: background-color 1s ease-out;
+    transition: background-color 1s ease-out;
+  }
+  
+  .social a:hover {
+    background: black;
+  }
+  
+  .list-group {
+    --bs-list-group-border-width: 0px;
+  }
+  
+  /* Konami stuff */
+  .visible {
+    display: unset;
+  }
+  
+  .not-visible {
+    display: none;
+  }
+  
+  .konami-background {
+    -webkit-animation: bgcolorchange 8s infinite; /* Chrome, Safari, Opera */
+    animation: 8s infinite bgcolorchange;
+  }
+  
+  @keyframes bgcolorchange {
+    0% {
+      background-color: lightblue;
+    }
+    25% {
+      background-color: lightgreen;
+    }
+    50% {
+      background-color: lightgoldenrodyellow;
+    }
+    75% {
+      background-color: lightsalmon;
+    }
+    100% {
+      background-color: lightblue;
+    }
+  }
+  
+  /* Chrome, Safari, Opera */
+   @-webkit-keyframes bgcolorchange {
+        0%   {background: lightcoral;}
+        25%  {background: lightgoldenrodyellow;}
+        75%  {background: lightgreen;}
+        100% {background: lightblue;}
+   }
+  
+   .rainbow-text {
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
