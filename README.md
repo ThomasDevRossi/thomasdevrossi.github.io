@@ -8,7 +8,7 @@ Este é meu primeiro portfólio pessoal contendo minhas informações de contato
  ## Quick links
 
 - [Portfolio - Github IO](http://thomasrossi.github.io)
-- [Curriculum Vitae]
+- [Curriculum Vitae](thomasdevrossi.github.io/CV-Thomas.pdf)
 - [Linkedin](https://www.linkedin.com/in/thomas-rossi-dev)
 
 ## Suports Konami Code
