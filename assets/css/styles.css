@@ -150,19 +150,19 @@ html, body {
   
   @keyframes bgcolorchange {
     0% {
-      background-color: lightblue;
+      background-color: rgb(161, 205, 219);
     }
     25% {
-      background-color: lightgreen;
+      background-color: rgb(157, 206, 221);
     }
     50% {
-      background-color: lightgoldenrodyellow;
+      background-color: rgb(147, 204, 221);
     }
     75% {
-      background-color: lightsalmon;
+      background-color: rgb(147, 201, 218);
     }
     100% {
-      background-color: lightblue;
+      background-color: rgb(140, 199, 217);
     }
   }
   
