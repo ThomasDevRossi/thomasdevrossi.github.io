@@ -7,7 +7,7 @@ Este é meu primeiro portfólio pessoal contendo minhas informações de contato
 
  ## Quick links
 
-- [Portfolio - Github IO](http://thomasrossi.github.io)
+- [Portfolio - Github IO](https://thomasdevrossi.github.io/)
 - [Curriculum Vitae](http://thomasdevrossi.github.io/CV-Thomas.pdf)
 - [Linkedin](https://www.linkedin.com/in/thomas-rossi-dev)
 
