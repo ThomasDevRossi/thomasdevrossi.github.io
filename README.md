@@ -2,7 +2,8 @@
 
 Este é meu primeiro portfólio pessoal contendo minhas informações de contato atualizadas, experiência profissional, currículo e muito mais.
 
-![image](https://user-images.githubusercontent.com/70355131/179250695-0171bcd2-202a-464f-960a-77d280a97785.png)
+![meu portfolio](https://github.com/user-attachments/assets/af883ffd-92a7-4edb-8cdd-dbfb8e6b8300)
+
 
 
  ## Quick links
